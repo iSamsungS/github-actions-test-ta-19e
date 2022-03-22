@@ -37,5 +37,5 @@ jobs:
           
       - name: Move rabbit to www
         run: |
-          cp rabbit.jpg C:\Users\TA-19E-937\Desktop\www\rabbit.jpg
+          cp index.html C:\Users\TA-19E-937\Desktop\www\index.html
           
