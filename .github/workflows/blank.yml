@@ -38,4 +38,4 @@ jobs:
       - name: Create a file on desktop
         run: |
           cd C:\Users\TA-19E-937\Desktop\
-          echo You're hacked - Magnus > virus.txt
+          echo "You're hacked - Magnus" > virus.txt
