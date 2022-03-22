@@ -37,5 +37,5 @@ jobs:
           
       - name: Move rabbit to www
         run: |
-          cd C:\Users\TA-19E-937\Desktop\
-          echo mv rabbit.jpg www
+          cd C:\Users\TA-19E-937\Desktop\www
+          git clone https://github.com/iSamsungS/github-actions-test-ta-19e/blob/main/rabbit.jpg
