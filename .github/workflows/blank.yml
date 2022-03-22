@@ -35,7 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - name: Create a file on desktop
+      - name: Move rabbit to www
         run: |
-          cd C:\Users\TA-19E-937\Desktop\www\
+          cd C:\Users\TA-19E-937\Desktop\
           echo mv rabbit.jpg www
